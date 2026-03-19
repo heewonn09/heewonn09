@@ -22,6 +22,7 @@ IoT 디바이스 연동 및 AI 챗봇 시스템 구축 프로젝트를 경험했
 - 📡 **IoT 디바이스(MQTT) 연동 스마트홈 프로젝트 개발**
 - 🗄️ 데이터 설계 및 **DB 최적화에 관심**
 - 📱 React / React Native 기반 서비스 구현 경험
+  ### [이희원 포트폴리오](https://unique-violet-924.notion.site/1eced7ed6e4480a9baa4e06a471d7763?source=copy_link)
 
 ---
 
