@@ -60,7 +60,7 @@ IoT 디바이스 연동 및 시스템 구축 프로젝트를 경험했습니다.
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />x  
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />  
 </p>
 
 ---
@@ -93,4 +93,9 @@ IoT 디바이스 연동 및 시스템 구축 프로젝트를 경험했습니다.
 </p>
 
 ---
+## 💡 Status
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heewonn09&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heewonn09&show_icons=true&theme=tokyonight" height="160" />
+</p>
