@@ -93,9 +93,4 @@ IoT 디바이스 연동 및 시스템 구축 프로젝트를 경험했습니다.
 </p>
 
 ---
-## 💡 Status
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heewonn09&layout=compact&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=heewonn09&show_icons=true&theme=tokyonight" height="160" />
-</p>
